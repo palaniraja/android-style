@@ -4,7 +4,7 @@ android-style
 To convert your inline style attribute to style tag 
 
 
-(Demo) [http://htmlpreview.github.io/?https://github.com/palaniraja/android-style/blob/master/index.html]
+<a href="http://htmlpreview.github.io/?https://github.com/palaniraja/android-style/blob/master/index.html">Demo</a>
 
 From the following
 
