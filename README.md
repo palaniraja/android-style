@@ -18,14 +18,16 @@ android:columnWidth="80dp"
       
 to
 
+
+
 <pre>
-<xmp>
-<style name="REPLACETHIS">
-<item name="android:padding">30dp</item>
-<item name="android:verticalSpacing">40dp</item>
-<item name="android:horizontalSpacing">40dp</item>
-<item name="android:numColumns">auto_fit</item>
-<item name="android:columnWidth">80dp</item>
-</style>
-</xmp>
+&lt;style name="REPLACETHIS">
+  &lt;item name="android:padding">30dp</item>
+  &lt;item name="android:verticalSpacing">40dp</item>
+  &lt;item name="android:horizontalSpacing">40dp</item>
+  &lt;item name="android:numColumns">auto_fit</item>
+  &lt;item name="android:columnWidth">80dp</item>
+&lt;/style>
 </pre>
+
+
